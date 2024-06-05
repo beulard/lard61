@@ -13,6 +13,6 @@ A custom 60% ansi keyboard PCB.
 
 ![Picture of the top side with switches](pictures/front_switches.jpg)
 
-![Picture of the bottom side](pictures/front_switches.jpg)
+![Picture of the bottom side](pictures/back.jpg)
 
 ![Preview of the schematic in KiCad](screenshots/schematic_main.png)
