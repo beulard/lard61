@@ -11,4 +11,8 @@ A custom 60% ansi keyboard PCB.
 + full n-key rollover
 + a single LED
 
+![Picture of the top side with switches](pictures/front_switches.jpg)
+
+![Picture of the bottom side](pictures/front_switches.jpg)
+
 ![Preview of the schematic in KiCad](screenshots/schematic_main.png)
